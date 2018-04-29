@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Penulisan on Jotosman</title>
+    <link>https://example.com/tags/penulisan/</link>
+    <description>Recent content in Penulisan on Jotosman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 27 Apr 2018 16:33:11 +0700</lastBuildDate>
+    
+	<atom:link href="https://example.com/tags/penulisan/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome</title>
+      <link>https://example.com/write/welcome/</link>
+      <pubDate>Fri, 27 Apr 2018 16:33:11 +0700</pubDate>
+      
+      <guid>https://example.com/write/welcome/</guid>
+      <description>Test ini menjadi blog buatan sendiri yang pertama.</description>
+    </item>
+    
+  </channel>
+</rss>
