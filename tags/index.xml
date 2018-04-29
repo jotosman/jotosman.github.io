@@ -5,7 +5,7 @@
     <link>https://example.com/tags/</link>
     <description>Recent content in Tags on Jotosman</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 27 Apr 2018 16:33:11 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 29 Apr 2018 16:56:10 +0700</lastBuildDate>
     
 	<atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -31,7 +31,7 @@
     <item>
       <title>Penulisan</title>
       <link>https://example.com/tags/penulisan/</link>
-      <pubDate>Fri, 27 Apr 2018 16:33:11 +0700</pubDate>
+      <pubDate>Sun, 29 Apr 2018 16:56:10 +0700</pubDate>
       
       <guid>https://example.com/tags/penulisan/</guid>
       <description></description>

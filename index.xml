@@ -5,7 +5,7 @@
     <link>https://example.com/</link>
     <description>Recent content in Home on Jotosman</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 27 Apr 2018 16:33:11 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 29 Apr 2018 16:56:10 +0700</lastBuildDate>
     
 	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -18,6 +18,16 @@
       <guid>https://example.com/about/</guid>
       <description>Jotosman Nama dari sebuah karakter game online Rose online. Terinspiras dari perjalanan pertama ke Jogja dan jenuh nama asing karakter yang cenderung kebarat-baratan dan animean. Akhirnya berinisiatif menggunanakan kosa-kata daerah, tapi tetap unik dan menarik. Jadilah nama karakter untuk hero class Hawker, walaupun gameplaynya tetap dengan senjata.
 Jotosman Now Jotosman sering digunakan untuk username game, nama karakter game lain, dan bahkan sampai username github dan gitlab. Kini menjadi nama website pribadi Ibrahim Fathan.</description>
+    </item>
+    
+    <item>
+      <title>Senang</title>
+      <link>https://example.com/write/senang/</link>
+      <pubDate>Sun, 29 Apr 2018 16:56:10 +0700</pubDate>
+      
+      <guid>https://example.com/write/senang/</guid>
+      <description>Akhirnya bisa buat website sendiri, walaupun sadar masih banyak hal belum saya buat. Tetapi bagaimanapun, ini sudah menjadi perkembangan yang baik menurut saya dibanding dulu yang tidak bisa apa-apa. dengan website ini saya berharap bisa lebih giat dalam belajar pemrograman dan penulisan.
+Mungkin ini bukan hal yang besar, tetapi semua berawal dari yang kecil.</description>
     </item>
     
     <item>

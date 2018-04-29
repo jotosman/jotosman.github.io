@@ -5,10 +5,20 @@
     <link>https://example.com/tags/penulisan/</link>
     <description>Recent content in Penulisan on Jotosman</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 27 Apr 2018 16:33:11 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 29 Apr 2018 16:56:10 +0700</lastBuildDate>
     
 	<atom:link href="https://example.com/tags/penulisan/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Senang</title>
+      <link>https://example.com/write/senang/</link>
+      <pubDate>Sun, 29 Apr 2018 16:56:10 +0700</pubDate>
+      
+      <guid>https://example.com/write/senang/</guid>
+      <description>Akhirnya bisa buat website sendiri, walaupun sadar masih banyak hal belum saya buat. Tetapi bagaimanapun, ini sudah menjadi perkembangan yang baik menurut saya dibanding dulu yang tidak bisa apa-apa. dengan website ini saya berharap bisa lebih giat dalam belajar pemrograman dan penulisan.
+Mungkin ini bukan hal yang besar, tetapi semua berawal dari yang kecil.</description>
+    </item>
     
     <item>
       <title>Welcome</title>
